@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 30, width: double.infinity),
               const Text(
-                "We help proffesional therapists and patients find each other",
+                "We help professional therapists and patients find each other",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                     fontSize: 20,
